@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1079px;
+  width:1033px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -15,10 +15,10 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:46px;
-  top:83px;
+  left:0px;
+  top:36px;
   width:1033px;
-  height:1100px;
+  height:1130px;
 }
 #u1_img {
   border-width:0px;
@@ -879,7 +879,7 @@
   left:0px;
   top:0px;
   width:50px;
-  height:220px;
+  height:250px;
 }
 #u36 {
   border-width:0px;
@@ -887,13 +887,13 @@
   left:0px;
   top:880px;
   width:50px;
-  height:220px;
+  height:250px;
 }
 #u36_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:102px;
+  top:117px;
   width:46px;
   word-wrap:break-word;
 }
@@ -903,7 +903,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:220px;
+  height:250px;
 }
 #u37 {
   border-width:0px;
@@ -911,13 +911,13 @@
   left:50px;
   top:880px;
   width:100px;
-  height:220px;
+  height:250px;
 }
 #u37_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:102px;
+  top:117px;
   width:96px;
   word-wrap:break-word;
 }
@@ -927,7 +927,7 @@
   left:0px;
   top:0px;
   width:700px;
-  height:220px;
+  height:250px;
 }
 #u38 {
   border-width:0px;
@@ -935,14 +935,14 @@
   left:150px;
   top:880px;
   width:700px;
-  height:220px;
+  height:250px;
   text-align:left;
 }
 #u38_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:14px;
+  top:13px;
   width:696px;
   word-wrap:break-word;
 }
@@ -952,7 +952,7 @@
   left:0px;
   top:0px;
   width:83px;
-  height:220px;
+  height:250px;
 }
 #u39 {
   border-width:0px;
@@ -960,7 +960,7 @@
   left:850px;
   top:880px;
   width:83px;
-  height:220px;
+  height:250px;
 }
 #u39_text {
   border-width:0px;
@@ -977,7 +977,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:220px;
+  height:250px;
 }
 #u40 {
   border-width:0px;
@@ -985,13 +985,13 @@
   left:933px;
   top:880px;
   width:100px;
-  height:220px;
+  height:250px;
 }
 #u40_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:102px;
+  top:117px;
   width:96px;
   word-wrap:break-word;
 }
@@ -1019,8 +1019,8 @@
 #u41 {
   border-width:0px;
   position:absolute;
-  left:46px;
-  top:47px;
+  left:0px;
+  top:0px;
   width:1033px;
   height:36px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
