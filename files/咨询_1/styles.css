@@ -56,8 +56,8 @@
 #u169 {
   border-width:0px;
   position:absolute;
-  left:105px;
-  top:80px;
+  left:99px;
+  top:51px;
   width:257px;
   height:16px;
   color:#FF0000;
@@ -103,5 +103,38 @@
   top:0px;
   width:0px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u171_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:286px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FF0000;
+}
+#u171 {
+  border-width:0px;
+  position:absolute;
+  left:430px;
+  top:51px;
+  width:286px;
+  height:48px;
+  color:#FF0000;
+}
+#u171_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:286px;
   word-wrap:break-word;
 }
